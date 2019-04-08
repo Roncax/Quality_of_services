@@ -21,4 +21,4 @@ test_dataset = pandas.read_csv(path_test)
 sample_dataset = pandas.read_csv(path_sample)
 train_dataset = pandas.read_csv(path_train)
 
-print(test_dataset)
+print(train_dataset)
